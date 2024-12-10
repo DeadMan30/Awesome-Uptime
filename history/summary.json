@@ -4,18 +4,20 @@
     "url": "https://alist-deadman30.koyeb.app/",
     "icon": "https://icons.duckduckgo.com/ip3/alist-deadman30.koyeb.app.ico",
     "slug": "alist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 328,
-    "timeWeek": 320,
-    "timeMonth": 310,
-    "timeYear": 310,
-    "dailyMinutesDown": {}
+    "time": 333,
+    "timeDay": 433,
+    "timeWeek": 347,
+    "timeMonth": 333,
+    "timeYear": 333,
+    "dailyMinutesDown": {
+      "2024-12-10": 0
+    }
   },
   {
     "name": "Cloudflare-VLESS",
