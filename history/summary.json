@@ -10,11 +10,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 312,
-    "timeDay": 328,
-    "timeWeek": 317,
-    "timeMonth": 312,
-    "timeYear": 312,
+    "time": 309,
+    "timeDay": 269,
+    "timeWeek": 310,
+    "timeMonth": 309,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2024-12-10": 23
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.reckon.workers.dev.ico",
     "slug": "cloudflare-vless",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 102,
-    "timeWeek": 102,
-    "timeMonth": 104,
-    "timeYear": 104,
+    "uptime": "94.63%",
+    "uptimeDay": "26.55%",
+    "uptimeWeek": "89.51%",
+    "uptimeMonth": "94.63%",
+    "uptimeYear": "94.63%",
+    "time": 109,
+    "timeDay": 134,
+    "timeWeek": 116,
+    "timeMonth": 109,
+    "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-12-15": 0
+      "2024-12-16": 87,
+      "2024-12-15": 971
     }
   },
   {
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 426,
-    "timeWeek": 356,
-    "timeMonth": 330,
-    "timeYear": 330,
+    "time": 328,
+    "timeDay": 299,
+    "timeWeek": 354,
+    "timeMonth": 328,
+    "timeYear": 328,
     "dailyMinutesDown": {}
   }
 ]
