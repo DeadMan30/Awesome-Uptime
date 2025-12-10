@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/alist-deadman30.koyeb.app.ico",
     "slug": "alist",
     "status": "up",
-    "uptime": "91.23%",
+    "uptime": "91.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "91.07%",
     "time": 479,
-    "timeDay": 700,
-    "timeWeek": 348,
-    "timeMonth": 353,
+    "timeDay": 253,
+    "timeWeek": 352,
+    "timeMonth": 347,
     "timeYear": 483,
     "dailyMinutesDown": {
       "2025-12-03": 25,
@@ -59,8 +59,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
-      "2024-12-31": 854,
-      "2024-12-10": 23
+      "2024-12-31": 854
     }
   },
   {
@@ -73,14 +72,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "1.71%",
+    "uptimeYear": "1.44%",
     "time": 116,
-    "timeDay": 54,
-    "timeWeek": 93,
-    "timeMonth": 97,
+    "timeDay": 161,
+    "timeWeek": 102,
+    "timeMonth": 98,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-12-09": 100,
+      "2025-12-10": 102,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -454,9 +454,9 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.98%",
     "time": 319,
-    "timeDay": 376,
-    "timeWeek": 417,
-    "timeMonth": 340,
+    "timeDay": 342,
+    "timeWeek": 421,
+    "timeMonth": 339,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2025-11-18": 131
