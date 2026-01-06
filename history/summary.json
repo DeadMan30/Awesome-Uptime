@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alist-deadman30.koyeb.app.ico",
     "slug": "alist",
     "status": "down",
-    "uptime": "87.56%",
+    "uptime": "87.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.10%",
+    "uptimeMonth": "40.83%",
     "uptimeYear": "87.70%",
-    "time": 528,
-    "timeDay": 269,
-    "timeWeek": 249,
-    "timeMonth": 1117,
+    "time": 527,
+    "timeDay": 146,
+    "timeWeek": 237,
+    "timeMonth": 1114,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2026-01-05": 115,
+      "2026-01-06": 106,
+      "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -70,8 +71,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
-      "2025-01-07": 1440,
-      "2025-01-06": 1440
+      "2025-01-07": 1440
     }
   },
   {
@@ -80,18 +80,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.reckon.workers.dev.ico",
     "slug": "cloudflare-vless",
     "status": "down",
-    "uptime": "3.25%",
+    "uptime": "3.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 115,
-    "timeDay": 105,
-    "timeWeek": 105,
+    "timeDay": 165,
+    "timeWeek": 101,
     "timeMonth": 95,
-    "timeYear": 116,
+    "timeYear": 117,
     "dailyMinutesDown": {
-      "2026-01-05": 115,
+      "2026-01-06": 106,
+      "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
@@ -454,8 +455,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
-      "2025-01-07": 1440,
-      "2025-01-06": 1440
+      "2025-01-07": 1440
     }
   },
   {
@@ -470,10 +470,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 320,
-    "timeDay": 430,
-    "timeWeek": 365,
-    "timeMonth": 344,
-    "timeYear": 321,
+    "timeDay": 389,
+    "timeWeek": 356,
+    "timeMonth": 351,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2025-11-18": 131
     }
