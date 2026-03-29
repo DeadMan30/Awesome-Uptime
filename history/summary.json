@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alist-deadman30.koyeb.app.ico",
     "slug": "alist",
     "status": "down",
-    "uptime": "72.63%",
+    "uptime": "72.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "8.08%",
-    "uptimeYear": "72.78%",
+    "uptimeMonth": "4.79%",
+    "uptimeYear": "72.51%",
     "time": 503,
-    "timeDay": 207,
-    "timeWeek": 216,
-    "timeMonth": 274,
-    "timeYear": 506,
+    "timeDay": 109,
+    "timeWeek": 194,
+    "timeMonth": 269,
+    "timeYear": 503,
     "dailyMinutesDown": {
-      "2026-03-28": 130,
+      "2026-03-29": 149,
+      "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
@@ -121,8 +122,7 @@
       "2025-09-08": 65,
       "2025-07-30": 115,
       "2025-06-27": 47,
-      "2025-05-06": 22,
-      "2025-03-29": 52
+      "2025-05-06": 22
     }
   },
   {
@@ -134,15 +134,16 @@
     "uptime": "2.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 110,
-    "timeDay": 47,
-    "timeWeek": 100,
-    "timeMonth": 82,
+    "timeDay": 63,
+    "timeWeek": 94,
+    "timeMonth": 81,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2026-03-28": 130,
+      "2026-03-29": 149,
+      "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
@@ -505,8 +506,7 @@
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
-      "2025-03-30": 1440,
-      "2025-03-29": 1440
+      "2025-03-30": 1440
     }
   },
   {
@@ -521,9 +521,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 322,
-    "timeDay": 341,
-    "timeWeek": 330,
-    "timeMonth": 300,
+    "timeDay": 249,
+    "timeWeek": 314,
+    "timeMonth": 299,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2025-11-18": 131
